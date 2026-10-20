@@ -1,0 +1,11 @@
+{
+  "name": "docker-image-scan",
+  "description": "Build, scan, and analyze container images for security vulnerabilities using Trivy via Docker or Podman — no local Trivy installation required",
+  "version": "1.1.0",
+  "author": {
+    "name": "Igor Koricanac"
+  },
+  "repository": "https://github.com/igor-koricanac/claude-image-scan",
+  "license": "MIT",
+  "keywords": ["docker", "podman", "security", "trivy", "vulnerability", "scanning", "container", "devops", "image-scan"]
+}

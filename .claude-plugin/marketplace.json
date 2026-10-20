@@ -1,0 +1,17 @@
+{
+  "name": "image-scan-marketplace",
+  "owner": {
+    "name": "Igor Koricanac"
+  },
+  "metadata": {
+    "description": "Container security scanning tools for Claude Code — uses Trivy via Docker or Podman"
+  },
+  "plugins": [
+    {
+      "name": "docker-image-scan",
+      "source": "./",
+      "description": "Build, scan, and analyze container images for security vulnerabilities using Trivy via Docker or Podman",
+      "version": "1.1.0"
+    }
+  ]
+}
